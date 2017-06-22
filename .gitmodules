@@ -1,0 +1,3 @@
+[submodule "gitflows"]
+	path = gitflows
+	url = https://github.com/TheAllSeeingPie/gitflows
